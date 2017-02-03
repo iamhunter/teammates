@@ -8,7 +8,7 @@
     <div id="browserMessage" style="display: none;"></div>
     <br>
     <h1 class="title" style="text-align: center;">
-        Student peer evaluations and feedback, shareable instructor comments, and more...
+        Student peer evaluations and feedback, shareable instructor comments, and <a href="/features.jsp" style="text-decoration : none; color : #e46d0b;">more...</a>
     </h1>
     <div id="contentHolder">                  
         <img alt="Overview of TEAMMATES - anonymous peer feedback and confidential peer evaluations" src="images/overview.png" width="750px" align="right">
