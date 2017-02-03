@@ -7,8 +7,8 @@
 <t:staticPage jsIncludes="${jsIncludes}" currentPage="index">
     <div id="browserMessage" style="display: none;"></div>
     <br>
-    <h1 class="caption" style="text-align: center;">
-        Student peer evaluations/feedback, shareable instructor comments, and more...
+    <h1 class="title" style="text-align: center;">
+        Student peer evaluations and feedback, shareable instructor comments, and more...
     </h1>
     <div id="contentHolder">                  
         <img alt="Overview of TEAMMATES - anonymous peer feedback and confidential peer evaluations" src="images/overview.png" width="750px" align="right">

@@ -192,6 +192,14 @@ h2 {
     font-weight: bold;
 }
 
+.title{
+    margin: 50px auto;
+    width: 800px;
+    color: #e46d0b;
+    font-size: 25px;
+    font-family: Century Gothic, sans-serif;
+}
+
 .caption {
     margin: 30px auto;
     width: 800px;
